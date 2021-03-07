@@ -1,0 +1,41 @@
+capa de fundo: 
+largura: 1920px
+altura: 1080px
+96dpi
+
+
+imagens do deck: 
+largura: 440px
+altura: 660px
+96dpi
+
+imagens cards:
+largura:300px
+altura: 200px
+25dpi
+
+
+
+<div class="carrosel">
+      <div class="flip-container">
+       <h2 class="filme2-carrosel">Filmes</h2>
+        <div class="owl-carousel owl-theme">
+            <div class="flipper">
+              <div class="front">
+                <img src="img/1.jpg" />
+              </div>
+              <div class="back">
+                <img src="img/1-1.jpg" />
+              </div>
+            <div class="flipper">
+              <div class="front">
+                <img src="img/bigbang.jpg" />
+              </div>
+              <div class="back">
+                <img src="img/bojckhorseman.jpg" />
+              </div>
+            </div>
+            </div>
+          </div>
+      </div>
+    </div>  
